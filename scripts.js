@@ -84,3 +84,11 @@ j=1 1/2 = 0 add 2 or if j/3 = 0 add 1 otherwise just print j
 
 
 */
+
+
+function greeting(){
+    return "Hello";
+    console.log("World");
+}
+var word = greeting();
+console.log(word);
